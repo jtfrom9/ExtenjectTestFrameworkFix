@@ -1,0 +1,7 @@
+{
+        "name": "com.svermeulen.extenject.testframework.modified",
+        "displayName": "Extenject TestFramework bug fix",
+        "version": "9.1.0",
+        "description": "Dependency Injection Framework for Unity3D, only TestFramework",
+        "dependencies": {}
+}
